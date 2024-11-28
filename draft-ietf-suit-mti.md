@@ -40,7 +40,7 @@ author:
  -
       ins: A. Tsukamoto
       name: Akira Tsukamoto
-      organization: ALAXALA Networks Corp.
+      organization:
       email: akira.tsukamoto@alaxala.com
 
 normative:
